@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 25 2021, Friday
+### Day 0: July 25 2021, Sunday
 
 **Today's Progress**: Today I finished the JetBrains Academy track: Python for begginers. I also began a new track, Python Developer, which also belongs to JetBrains Academy. For the start of the track I have selected the project "Coffee Machine" which has 6 phases and today I have completed 5 of them.
 
@@ -11,3 +11,11 @@ More concretely, not counting what I have studied today, the projects I have bee
 **Link(s) to work**:
 1. [Hangman Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20for%20Beginners/Hangman)
 1. [Coffee Machine Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Coffee%20Machine)
+
+### Day 1: July 26 2021, Monday
+
+**Today's Progress**: Today I didn't work on any project, instead, it has been a day of learning and practicing theory. I have been studying Object-Oriented Programming (OOP)  in Python. I wanted to dedicate some time to it because I had already seen OOP in C++ but never in Python and, in addition, some concepts I didn't quite assimilate them the last time I worked on OOP. So today, I studied the theory of OOP and did some exercises in JetBrains Academy.
+
+For all the reasons explained above I have not continued the Coffee Machine project, nor have I started another one. To sum up, today has been focused on learning and practicing OOP in Python.
+
+**Thoughts**: The truth is that I enjoyed today a lot, since I have been able to complete my understanding of the different concepts of Object-Oriented Programming (OOP). I was able to complete the exercises with almost no problems.
