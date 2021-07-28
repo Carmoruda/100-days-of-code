@@ -10,7 +10,7 @@ More concretely, not counting what I have studied today, the projects I have bee
 
 **Link(s) to work**:
 1. [Hangman Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20for%20Beginners/Hangman)
-1. [Coffee Machine Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Coffee%20Machine)
+2. [Coffee Machine Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Coffee%20Machine)
 
 ### Day 1: July 26 2021, Monday
 
@@ -19,3 +19,11 @@ More concretely, not counting what I have studied today, the projects I have bee
 For all the reasons explained above I have not continued the Coffee Machine project, nor have I started another one. To sum up, today has been focused on learning and practicing OOP in Python.
 
 **Thoughts**: The truth is that I enjoyed today a lot, since I have been able to complete my understanding of the different concepts of Object-Oriented Programming (OOP). I was able to complete the exercises with almost no problems.
+
+### Day 2: July 27 2021, Tusday
+
+**Today's Progress**: Earlier today I continued studying OOP in Python and based on the knowledge I gained I finished stage 6 of the Coffee Machine project, which means that today I have completed the whole project.
+
+**Thoughts**: I must admit that I am really enjoying OOP. All the features it offers seem great and help a lot when developing different projects.
+**Link(s) to work**:
+1. [Coffee Machine Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Coffee%20Machine)
