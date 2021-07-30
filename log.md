@@ -25,6 +25,7 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 **Today's Progress**: Earlier today I continued studying OOP in Python and based on the knowledge I gained I finished stage 6 of the Coffee Machine project, which means that today I have completed the whole project.
 
 **Thoughts**: I must admit that I am really enjoying OOP. All the features it offers seem great and help a lot when developing different projects.
+
 **Link(s) to work**:
 1. [Coffee Machine Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Coffee%20Machine)
 
@@ -33,5 +34,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 **Today's Progress**: Today I have been studying different probability concepts due to the fact that this project requires them. I have also begun a new project, Generating Randomness, and completed phases 1 and 2 of it.
 
 **Thoughts**: To be honest today has not been very enjoyable, this has occurred because the explanations of probability and the instructions of the exercises and different phases of the project are not well developed and explained.
+
 **Link(s) to work**:
 1. [Generating Randomness Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Generating%20Randomness)
+
+### Day 4: July 29 2021, Thursday
+
+**Today's Progress**: During the day I have continued studying the different concepts of probability, so I have not done any practical activities.
+
+**Thoughts**: Ttoday hasn't been very entertaining since the probability study is getting too dense for me.
