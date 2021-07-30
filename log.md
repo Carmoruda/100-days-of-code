@@ -43,3 +43,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 **Today's Progress**: During the day I have continued studying the different concepts of probability, so I have not done any practical activities.
 
 **Thoughts**: Ttoday hasn't been very entertaining since the probability study is getting too dense for me.
+
+### Day 5: July 30 2021, Friday
+
+**Today's Progress**: Today I have been studying different probability concepts due to the fact that this project requires them. I have also begun a new project, Generating Randomness, and completed phases 1 and 2 of it.
+
+**Thoughts**: To be honest today has not been very enjoyable, this has occurred because the explanations of probability and the instructions of the exercises and different phases of the project are not well developed and explained.
+
+**Link(s) to work**:
+1. [Generating Randomness Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Generating%20Randomness)
