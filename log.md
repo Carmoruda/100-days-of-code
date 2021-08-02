@@ -52,3 +52,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Generating Randomness Project](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Generating%20Randomness)
+
+### Day 6: August 1 2021, Sunday
+
+**Today's Progress**: On this day I have completed phases 1 and 2 of the Dominoes Python project.
+
+**Thoughts**: It was a good day today. In the second phase of the project I got stuck because it didn't like the way the text was printed, but apart from that, everything was great.
+
+**Link(s) to work**:
+1. [Dominoes](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Dominoes)
