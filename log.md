@@ -70,12 +70,3 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Dominoes](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Dominoes)
-
-### Day 8: August 5 2021, Thursday
-
-**Today's Progress**: I know that for the last two days I haven't worked or studied any project, but I've been organizing github repositories, notes in Obsidian, etc. As for today's work, I have managed to finish phases 3 and 4 of the project (Dominoes).
-
-**Thoughts**: This project is taking me longer than expected, looking forward to move on to a more interesting one.
-
-**Link(s) to work**:
-1. [Dominoes](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Dominoes)
