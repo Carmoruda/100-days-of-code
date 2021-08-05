@@ -70,6 +70,9 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Dominoes](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Dominoes)
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
 
 ### Day 8: August 5 2021, Thursday
 
