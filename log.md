@@ -79,3 +79,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Dominoes](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Dominoes)
+
+### Day 9: August 8 2021, Sunday
+
+**Today's Progress**: I recognize that I'm not working a lot these days, but I'm traveling so I'm working as much as I can. Today I migrated all the Simple Banking System project organization from Jira to JetBrains Space. Specifically in the programming area, today I have completed phases 1 and 2 of the project (Simple Banking System).
+
+**Thoughts**: Although I'm only halfway through the project, I must admit that I'm really enjoying it. I missed having so much interest in a project.
+
+**Link(s) to work**:
+1. [Simple Banking System](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Simple%20Banking%20System)
