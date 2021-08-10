@@ -42,7 +42,7 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Today's Progress**: During the day I have continued studying the different concepts of probability, so I have not done any practical activities.
 
-**Thoughts**: Ttoday hasn't been very entertaining since the probability study is getting too dense for me.
+**Thoughts**: Today hasn't been very entertaining since the probability study is getting too dense for me.
 
 ### Day 5: July 30 2021, Friday
 
@@ -88,3 +88,9 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Simple Banking System](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Simple%20Banking%20System)
+
+### Day 10: August 9 2021, Monday
+
+**Today's Progress**: So far today I have been studying different concepts of databases and SQL because the project requires them in order to continue developing code.
+
+**Thoughts**: I have found the concepts I acquired today to be very intriguing and useful. The databases are extremely effective and efficient.
