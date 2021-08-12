@@ -95,8 +95,14 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Thoughts**: I have found the concepts I acquired today to be very intriguing and useful. The databases are extremely effective and efficient.
 
-### Day 11: August 109 2021, Monday
+### Day 11: August 10 2021, Tuesday
 
 **Today's Progress**: I haven't had that much time to program/learn today, but in the time I have had I' ve been able to keep progressing with the various SQL and databases concepts.
 
 **Thoughts**: Unlike with other projects, the knowledge I am acquiring seems very worthwhile and I can't wait to put it into practice in the project.
+
+### Day 12: August 11 2021, Wednesday
+
+**Today's Progress**: Today I have finished learning all concepts needed to develop the 3rd phase of the project.
+
+**Thoughts**: In my humble opinion, databases are very intriguing and it' s a topic that I would like to learn more profoundly in the future.
