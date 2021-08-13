@@ -106,3 +106,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 **Today's Progress**: Today I have finished learning all concepts needed to develop the 3rd phase of the project.
 
 **Thoughts**: In my humble opinion, databases are very intriguing and it' s a topic that I would like to learn more profoundly in the future.
+
+### Day 13: August 12 2021, Thursday
+
+**Today's Progress**: I have today finished the 3rd phase of the Simple Banking System project. It has been a really interesting phase and I have learned and put into practice a lot of new concepts.
+
+**Thoughts**: It was very exciting when I managed to complete this phase, since I did not see myself able to complete it with all the SQL concepts it required.
+
+**Link(s) to work**:
+1. [Simple Banking System](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20Developer/Simple%20Banking%20System/Stage%203-4.py)
