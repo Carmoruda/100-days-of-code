@@ -115,3 +115,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Simple Banking System](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20Developer/Simple%20Banking%20System/Stage%203-4.py)
+
+### Day 14: August 13 2021, Friday
+
+**Today's Progress**: Today I have finished the entire Simple Banking System project. This project has been fantastic, I have learned a lot about databases and SQL.
+
+**Thoughts**: In my most sincere opinion, I believe that this is one of the most useful projects I've done so far and I think it is the one I have learned the most with, of course, for the moment.
+
+**Link(s) to work**:
+1. [Simple Banking System](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20Developer/Simple%20Banking%20System/Stage%204-4.py)
