@@ -124,3 +124,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Simple Banking System](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20Developer/Simple%20Banking%20System/Stage%204-4.py)
+
+### Day 15: August 14 2021, Sunday
+
+**Today's Progress**: Today I have started the Markdown Editor project. More concretely, today I've working in the stage 1 of this project.
+
+**Thoughts**: Today was an easy and calm day because I already know the Markdown syntax, so I didn´t have to put almost any effort into todays work.
+
+**Link(s) to work**:
+1. [Markdown Editor]](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
