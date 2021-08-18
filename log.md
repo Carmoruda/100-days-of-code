@@ -133,3 +133,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Markdown Editor]](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
+
+### Day 16: August 16 2021, Monday
+
+**Today's Progress**: Today I haven't done much since I returned home from a vacation and I was a bit tired. Regardless of this, today I worked on phases 2 and 3 of the xxx project. I completed phase 2 and left half done phase 3.
+
+**Thoughts**: I really appreciate the fact that I already know Markdown since it is facilitating me a lot the development of the project.
+
+**Link(s) to work**:
+1. [Markdown Editor]](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
