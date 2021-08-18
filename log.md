@@ -132,7 +132,7 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 **Thoughts**: Today was an easy and calm day because I already know the Markdown syntax, so I didn´t have to put almost any effort into todays work.
 
 **Link(s) to work**:
-1. [Markdown Editor]](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
+1. [Markdown Editor](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
 
 ### Day 16: August 16 2021, Monday
 
@@ -141,4 +141,13 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 **Thoughts**: I really appreciate the fact that I already know Markdown since it is facilitating me a lot the development of the project.
 
 **Link(s) to work**:
-1. [Markdown Editor]](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
+1. [Markdown Editor](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
+
+### Day 17: August 17 2021, Tuesday
+
+**Today's Progress**: Today I have finished and optimized phase 3 of the Markdown Editor project.
+
+**Thoughts**: Today has been quite useful for practicing Object-Oriented Programming (OOP). I have learned a lot about how to work with classes.
+
+**Link(s) to work**:
+1. [Markdown Editor](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20Developer/Markdown%20Editor/Stage%203-5.py)
