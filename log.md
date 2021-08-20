@@ -160,3 +160,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Markdown Editor](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
+
+### Day 19: August 19 2021, Thursday
+
+**Today's Progress**: Today I've been working on phase 4 of the Markdown Editor project. That meaning, I have worked on theoretical concepts and I have also developed code.
+
+**Thoughts**: Today I have been very efficient, which has led me to learn a lot of things and to program a lot as well.
+
+**Link(s) to work**:
+1. [Markdown Editor](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20Developer/Markdown%20Editor/Stage%204-5.py)
