@@ -151,3 +151,12 @@ For all the reasons explained above I have not continued the Coffee Machine proj
 
 **Link(s) to work**:
 1. [Markdown Editor](https://github.com/Carmoruda/JetBrains-Academy-Projects/blob/main/Python%20Developer/Markdown%20Editor/Stage%203-5.py)
+
+### Day 18: August 18 2021, Wednesday
+
+**Today's Progress**: Today I have been learning different concepts such as: immutability, identity testing and lambda functions.
+
+**Thoughts**: The different concepts I have acquired about mutability and immutability have turned out to be extremely valuable to me. On the other hand and to being honest, I don't believe that I will be using lambda functions very often.
+
+**Link(s) to work**:
+1. [Markdown Editor](https://github.com/Carmoruda/JetBrains-Academy-Projects/tree/main/Python%20Developer/Markdown%20Editor)
